@@ -45,7 +45,4 @@ php artisan serve
 
 ## Screenshots
 
-![Propriétés](screenshots/properties.png)
-![Détail](screenshots/show.png)
-![Réservations](screenshots/bookings.png)
-![Admin](screenshots/admin.png)
+Les captures d'écran sont disponibles dans le dossier [`screenshots/`](screenshots/).
